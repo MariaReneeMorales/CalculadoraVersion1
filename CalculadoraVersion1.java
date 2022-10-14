@@ -143,5 +143,13 @@ public class CalculadoraVersion1 {
         //Cálculos + Impresión de datos.
         lnResultado = lnNumero1 % lnNumero2;
         System.out.println(" \uD83D\uDD38 El residuo de " + lnNumero1 + " % " + lnNumero2 + " = " + lnResultado);
+
+        //Acerca de.
+        System.out.println(" ");
+        System.out.println(" \uD83C\uDF89 A C E R C A   D E \uD83C\uDF89 ");
+        System.out.println(" ");
+
+        System.out.println(" Es una calculadora basada con herramientas de programación muy básicas. ");
+        System.out.println(" ©2021 María Reneé Academy. All rights reserved.");
     }
 }
