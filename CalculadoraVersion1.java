@@ -150,6 +150,6 @@ public class CalculadoraVersion1 {
         System.out.println(" ");
 
         System.out.println(" Es una calculadora basada con herramientas de programación muy básicas. ");
-        System.out.println(" ©2021 María Reneé Academy. All rights reserved.");
+        System.out.println(" ©2022 María Reneé Academy. All rights reserved.");
     }
 }
